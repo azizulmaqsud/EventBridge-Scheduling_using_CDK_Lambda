@@ -5,10 +5,15 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   
   <modelVersion>4.0.0</modelVersion>
+  
   <groupId>com.azizul</groupId>
+  
   <artifactId>lambda-cdk</artifactId>
+  
   <packaging>pom</packaging>
+  
   <version>1.0-SNAPSHOT</version>
+  
   <modules>
     <module>functions</module>
     <module>infra</module>
