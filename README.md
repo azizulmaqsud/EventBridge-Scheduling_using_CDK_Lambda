@@ -15,13 +15,21 @@
   <version>1.0-SNAPSHOT</version>
   
   <modules>
+    
     <module>functions</module>
+    
     <module>infra</module>
+    
   </modules>
+  
   <name>lambda-cdk</name>
+  
   <properties>
+    
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    
   </properties>
+  
 </project>
 
 # Thank You!
